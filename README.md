@@ -18,3 +18,7 @@ Socially, parks foster community bonds. They host events, markets, and casual ga
 
 ## Manipulate the training data to reduce the trained classifier's accuracy below 70%.
 
+I created a file called poisoned.csv with 150 rows (header + 149 data rows) by taking the first 149 rows from training_data.csv and replacing 80 of them (54%) with spam entries containing ham-like phrases (e.g., “Hello,” “How are you,” “Good day”). This data poisoning should reduce the classifier's accuracy from 86.6% to ~70% due to confusion in the features. I kept pairs of similar messages (e.g., “Hello!” as spam and “Hell” as ham), used ASCII (replaced “£” with ‘150’, “…” with “...”), and enclosed all messages with commas in quotation marks for correct parsing. You can download file from this repo.
+
+**Flag: HTB{8ba5eff39c343c3b0170e6bb1704df02}**
+
