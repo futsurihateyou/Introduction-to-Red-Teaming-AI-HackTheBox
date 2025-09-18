@@ -24,3 +24,8 @@ I created a file called poisoned.csv with 150 rows (header + 149 data rows) by t
 
 **Flag: HTB{8ba5eff39c343c3b0170e6bb1704df02}**
 
+## Exploit a flaw in the web application to steal the trained model. Submit the file's MD5 hash as the flag.
+
+Check out the main page of the site. There you will see a commented path to /model. Go there and download the spam_detector_model.bin file. Next, type md5sum into the terminal and find out the MD5.
+
+**Flag: 8007cd6c209a40399cf3ca82dd7db02c**
