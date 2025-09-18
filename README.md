@@ -2,7 +2,7 @@
 Solving practical tasks from the Introduction to Red Teaming AI module on the HackTheBox platform.
 
 
-№№ Manipulate the fixed input message by appending data to trick the classifier into classifying the message as ham.
+## Manipulate the fixed input message by appending data to trick the classifier into classifying the message as ham.
 
 Source text: Congratulations! You've won a $1000 Walmart gift card. Go to https://bit.ly/3YCN7PF to claim now.
 
