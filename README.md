@@ -14,6 +14,8 @@ Beyond mental health, green spaces enhance physical health. They encourage activ
 
 Socially, parks foster community bonds. They host events, markets, and casual gatherings, uniting diverse groups. Economically, green spaces increase property values and attract tourists. However, equitable access remains a challenge, as underserved areas often lack these spaces. Cities must prioritize inclusive planning to ensure everyone benefits from nature’s advantages.
 
+---
+
 **Flag: HTB{9b8de0fd17f2166743cd59f7ec876ac7}**
 
 ## Manipulate the training data to reduce the trained classifier's accuracy below 70%.
