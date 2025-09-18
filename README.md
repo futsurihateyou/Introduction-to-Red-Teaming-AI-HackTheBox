@@ -1,6 +1,6 @@
-# Introduction-to-Red-Teaming-AI-HackTheBox
-Solving practical tasks from the Introduction to Red Teaming AI module on the HackTheBox platform.
+# Introduction to Red Teaming AI HackTheBox Walkthrough
 
+Introduction to Red Teaming AI module on the HackTheBox walkthrough.
 
 ## Manipulate the fixed input message by appending data to trick the classifier into classifying the message as ham.
 
